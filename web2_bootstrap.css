@@ -1,0 +1,58 @@
+body {
+    font-family: didot;
+    background-color: rgb(235, 231, 245);
+    min-height: 100vh;
+}
+
+.nav-bg {
+    background-color: rgb(175, 161, 203);
+}
+
+.navigate {
+    display: flex;
+    justify-content: space-evenly;
+    min-height: 56px;
+}
+
+.shop {
+    min-height: calc(100vh - 105px);
+} 
+
+.imagen {
+    padding: 5px;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 45px;
+}
+
+.font {
+    font-size: 32px;
+    color: black;
+    text-decoration: none;
+}
+
+.resize {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boton-hover {
+    border-color: rgb(175, 161, 203);
+}
+
+.boton-hover:hover {
+    background-color: rgb(175, 161, 203);
+}
+
+.color {
+    background-color:rgb(133, 98, 179);
+}
